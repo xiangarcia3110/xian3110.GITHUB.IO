@@ -27,13 +27,59 @@ Sóc la Xian, tinc 16 anys, visc a la Torre de Claramunt. Sóc estudiant de grau
 
 ---
 
-<
+< "En la vida hay que evitar tres figuras geométricas: los círculos viciosos, los triángulos amorosos y las mentes cuadradas - Mario Benedetii"
+
+😄
+
+---
+
+[Les meves aficions](#Lesmevesaficions)
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.137269822621988,
+              41.386942867827116
+            ],
+            [
+              2.137269822621988,
+              41.37263703742471
+            ],
+            [
+              2.2320391318876887,
+              41.37263703742471
+            ],
+            [
+              2.2320391318876887,
+              41.386942867827116
+            ],
+            [
+              2.137269822621988,
+              41.386942867827116
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
+```
 
 [GitHUB](https://xiangarcia3110.github.io/xian3110.GITHUB.IO/)
 
 [Informàtica](https://saluddata.com/wp-content/uploads/2023/11/que-es-la-informatica.webp)
 
-'void main () {
+'
+void main () {
 
     int edat;
 
@@ -50,7 +96,8 @@ Sóc la Xian, tinc 16 anys, visc a la Torre de Claramunt. Sóc estudiant de grau
     }
         getch(); '
 
-```void main () {
+```
+    void main () {
 
     int edat;
 

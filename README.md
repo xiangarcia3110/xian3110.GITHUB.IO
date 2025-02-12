@@ -33,7 +33,7 @@ Sóc la Xian, tinc 16 anys, visc a la Torre de Claramunt. Sóc estudiant de grau
 
 ---
 
-[El meu curriculum](#Elmeucurriculum)
+[El meu curriculum](#El-meu-curriculum)
 
 ```geojson
 {
